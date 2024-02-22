@@ -1,0 +1,17 @@
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\Prakticode2.exe
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\jsonFiles\HtmlTags.json
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\jsonFiles\HtmlVoidTags.json
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\Prakticode2.deps.json
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\Prakticode2.runtimeconfig.json
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\Prakticode2.dll
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\bin\Debug\net6.0\Prakticode2.pdb
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.AssemblyInfo.cs
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.dll
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\refint\Prakticode2.dll
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.pdb
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\Prakticode2.genruntimeconfig.cache
+C:\Users\user1\Documents\שולמית תכנות\שנה ב\פרקטיקוד\Prakticode2\Prakticode2\obj\Debug\net6.0\ref\Prakticode2.dll
